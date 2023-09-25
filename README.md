@@ -46,3 +46,27 @@ Think about the difference between `p` and `puts`. Using `p` in development is h
 Keep your code simple. You have all the tools you need to effectively construct the game. This is an exercise in organization, planning, and creativity.
 
 Have fun! This medium is prime for easter eggs and (class appropriate) inside jokes.
+
+P you wake up and are looking around you see 3 objects beside you, dagger, limited edition disney emperors new groove water bottle with adjustable bendy straw, and a freshly made krabby patty.
+
+1 - you choose the dagger, ok thats weird for you to pass up the kraby patty and the cool bottle but this is cool to i guess
+
+2 - you choose the bottle and you are amazed by its craftmenship and you will never be dehydrated again!
+
+3 - you choose the patty, you are mezmerized by its 100% all-secret patty, secretly assembled with undersea cheese, pickles, lettuce, tomato, onion, all secretly steamed between two fluffy seaweed-sea buns.
+
+p.2 - after waking up and picking your item see a door, do want to open it?
+
+1 yes - ok lets see where this show is going
+
+2 no - fine then just sit and wait
+2.a - do you want to open it now?
+2.b - ok just wait
+p. you wait so long that you die of bordom
+
+p.3 - holy shit dude you see crocodile dundee eating a bowl of chum bucket, bucket chum with those two dudes from the road to el dorado, Mr Dundee offers you a bucket of chum, do you accept the chum?
+
+1 yes - you eagerly digest the chum leaving nothing behind, this make you feel sick and you lose 12 health points (this doesnt really mean anything its just sounds cool)
+2 no - you are a smart person that chum looks gross af. 
+
+p.4 after leaving them behind yopu start to wa.... HOLY SHIT DUDE A WILD MANRAY APPEARS, USING THE AQUA BEAM GUN SEEN IN EPISODE 42
