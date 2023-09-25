@@ -70,3 +70,19 @@ p.3 - holy shit dude you see crocodile dundee eating a bowl of chum bucket, buck
 2 no - you are a smart person that chum looks gross af. 
 
 p.4 after leaving them behind yopu start to wa.... HOLY SHIT DUDE A WILD MANRAY APPEARS, USING THE AQUA BEAM GUN SEEN IN EPISODE 42
+1.yes - you loose a pokeball
+2.no - good
+
+p.5 Do you want to fight Manray or run away? 
+1.Fight - Youre quite brave...you lunged at him missing him entirely. He laughs and is about to deal a finishing blow. (Mortal Kombat Narrator) Finish him!.
+1.a Before the finishing blow. Manray is confused with the orb of confusion. You look to your savior its Nacho Libre. 
+ENDING 1: How do you help him out? [the item you chose from earlier]?
+Dagger ending - You resort to using the dagger from before. The dagger starts glowing and vibrating. From the dagger emerges the Flying Dutchman striking ManRay and shrinking him down. He is now forever cursed. 
+Limited edition water bottle ending - You drink it turning yourself into a llama. Your grooves are forever ruined but you use your hooves to fend off manray. You end up beating him but only because Manray does not like hurting animals. 
+krabby patty ending - You place the Krabby Patty on the ground. Its scent makes Manray cartoonishly levitate and float towards the patty. He promises to be good if hes able to taste the deliciousness of the Krabby Patty. 
+
+2.Run - You run to the nearest cover trying to break his line of sight. You look around for a way to escape. 
+2.a You see a mouse hole and from the mouse hole emerges a mouse dressed in a suit and its arms stretched out as if greeting someone. You are shocked as he says "Are you ready to have a gouda time!?" And then you hear thousands of mice scream "Yes Mr. Chedda!"
+ENDING 2: How do you help Mr.Chedda and his friends? [pokeball or fight along side him]?
+Pokeball ending - You throw your useless Pokeball at Manray. Hitting him in the eye this does not blind him but only makes him angrier. He grabs it and throws it at you capturing you forever. 
+Fighting along him ending - An epic battle immenses. You bravely follow Mr. Chedda into battle. The fight with Manray is a close one. Just when you though you had him he catches you off guard. Thats when Mr. Chedda tackles Manray and jumps into the bottomless pit. You scream out for Mr. Chedda. His last words are "Change the world. My final message, goodbye".
