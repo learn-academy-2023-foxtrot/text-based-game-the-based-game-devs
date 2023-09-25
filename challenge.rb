@@ -1,24 +1,28 @@
 # Text-based Game Challenge
 p 'its a regular day in boringsville you are walking to pick... wait what... dude your like totally sleeping bro wake up im trying to do a thing here (throws rock at player)'
+    p'----------'
 p 'finally your awake, now you must go forth and chase your destiny, but remember its dangerous to go alone so take this' 
-p 'you wake up with a burning headache and are looking around you see 3 objects beside you ,a dagger (kinda boring so dont choose this), a limited edition disney emperors new groove water bottle with adjustable bendy straw, and a freshly made krabby patty'
+    p'----------'
+p 'you wake up with a burning headache and are looking around you see 3 objects beside you ,a dagger (kinda boring so dont choose this), a limited edition disney emperors new groove movie promotional water bottle with adjustable bendy straw, and a freshly made krabby patty'
 p 'what will you choose? [dagger], [water bottle], or [krabby patty]'
 user_choice1 = gets.chomp
+p '----------'
 def user_options1 string
     if string == 'dagger'
         p 'you choose the dagger, ok thats weird for you to pass up the kraby patty and the cool bottle but this is cool to i guess'
+        p '------------'
     elsif string == 'water bottle'
         p 'you choose the bottle and you are amazed by its craftmenship and you will never be dehydrated again!'
+        p '------------'
     elsif string == 'krabby patty'
         p 'you choose the patty, you are mezmerized by its 100% all-secret patty, secretly assembled with undersea cheese, pickles, lettuce, tomato, onion, all secretly steamed between two fluffy seaweed-sea buns.'
-    # else
-    #     p 'dude thats not an option'
+        p '------------'
     end
 end
 user_options1(user_choice1)
 
  p 'afterwards you see a door and start to head towards it, you feel something in your pocket'
- p 'you pull it out and... OH SH*T its a pokeball!!! (you start humming zelda item discovery music out loud)'
+ p 'you pull it out and... OMG its a pokeball!!! (you start humming zelda item discovery music out loud)'
  pokeball = 1
  p 'Item Aquired: +1 Pokeball'
  p '(this might actually be helpful for later)'
@@ -28,7 +32,7 @@ def user_options2 (string, weapon)
     if string == 'yes'
         p 'ok lets see where this show is going'
     elsif string == 'no'
-        p 'fine then just sit and wait... do you still wanna wait [yes] or [no]' 
+        p 'fine then just sit and wait... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...do you still wanna wait [yes] or [no]' 
         wait_option = gets.chomp
         if wait_option == 'yes'
             p '(Spongebob Narrator Voice)Ten years later...still want to wait? [yes] or [no]'
@@ -46,7 +50,7 @@ def user_options2 (string, weapon)
     end
     if string == 'yes' || wait_option == 'no' || still_waiting == 'no'
         p 'you open up the door and see...'
-        p 'holy shit dude you see crocodile dundee eating a bowl of chum bucket, bucket chum with those two dudes from the road to el dorado, Mr Dundee offers you a bucket of chum, do you accept the chum?'
+        p 'holy sh*t dude you see crocodile dundee eating a bowl of chum bucket, bucket chum with those two dudes from the road to el dorado movie, Mr Dundee offers you a bucket of chum, do you accept the chum?'
         p '[yes] or [no]'
         user_choice3 = gets.chomp
         if user_choice3 == 'yes'
@@ -54,10 +58,10 @@ def user_options2 (string, weapon)
         elsif user_choice3 == 'no'
             p 'you are a smart person that chum looks gross af.'
         end
-        p 'after leaving them behind you start to wa.... HOLY SHIT DUDE A WILD MANRAY APPEARS, USING THE AQUA BEAM GUN SEEN IN EPISODE 42 (Pokemon battle sound)'
+        p 'after leaving them behind you start to wa.... HOLY SH*T DUDE A WILD MANRAY APPEARS, USING THE AQUA BEAM GUN SEEN IN EPISODE 42 (Pokemon battle sound)'
         p 'You remember the pokeball in your pocket. Do you wish to capture Manray? (You only have one pokeball to use) [yes] or [no]'
         user_choice4 = gets.chomp
-        if user_choice4 == 'yes' && pokeball = 1
+        if user_choice4 == 'yes' && pokeball == 1
             p 'Dude it didnt work...Manray is not a pokemon, of course that wouldnt work. Now you lost your pokeball'
             p '-1 Pokeball'
             pokeball - 1
